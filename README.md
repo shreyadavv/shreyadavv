@@ -1,5 +1,8 @@
 ### Hi there 👋,I am Shreya!
-i am a btech student
+### A passionate frontend developer
+   ![image](https://user-images.githubusercontent.com/128418139/226443845-3537ee8e-2992-4897-956c-c4262bf9e806.png)
+
+
 
 <!--
 **shreyadavv/shreyadavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
